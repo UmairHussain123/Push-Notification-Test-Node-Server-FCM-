@@ -1,3 +1,6 @@
+send token   script:    
+
+
 node index.js <Device-Token> \
   "Sale Alert" "Tap to view" \
   --image=https://abcd.com/storage/146/Yogurt_3.png \
